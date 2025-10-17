@@ -1,0 +1,12 @@
+# Fichiers executables Hugo
+*.exe
+
+# Dossier public généré par Hugo (sera créé par GitHub Actions)
+public/
+
+# Fichier de lock Hugo
+.hugo_build.lock
+
+# Fichiers système
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+baseURL = 'https://EnzoCglc.github.io/Wiki-Cyber/'
+languageCode = 'fr-fr'
+title = 'Mon Wiki Cyber'
+theme = "hextra"

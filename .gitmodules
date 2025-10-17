@@ -1,0 +1,6 @@
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git
+[submodule "Cyber_Wiki/themes/hextra"]
+	path = Cyber_Wiki/themes/hextra
+	url = https://github.com/imfing/hextra.git
